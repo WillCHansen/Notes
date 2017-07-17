@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from "react-dom";
 
-import Test from "./test";
+import Quill from "./Quill";
 
 class App extends React.Component {
     render() {
         return (
             <div>
-                < Test />
+                < Quill />
             </div>
         );
     }
